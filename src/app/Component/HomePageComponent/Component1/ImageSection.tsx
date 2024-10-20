@@ -11,7 +11,6 @@ export function ImageSection() {
           alt="Profile Picture"
           className="rounded-full"
           loading="lazy"
-          style={{border: "5px solid red"}}
         />
       </div>
     </div>
